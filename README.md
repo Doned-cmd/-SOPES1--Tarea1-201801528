@@ -1,5 +1,5 @@
 # SOPES1 Tarea1 201801528
-#Kernel 
+# Kernel 
 El Kernel es un programa que funciona en el centro del sistema operativo y controla topdas las funciones importantes del hardware, consta de varias capaz:
 * Interfaz con el hardware (maneja procesadores, memoria y dispositivos), aquí se maneja el controlador de red o el PCI Express.
 * Gestion de la memoria, distribuye la memoria RAM y la memoria virutal.
